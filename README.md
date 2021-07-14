@@ -17,5 +17,6 @@ file names   | links
 growth mindset | [GrowthMindset Link](https://tariqkjm7.github.io/Reading-notes/growthMindset)
 MarkDown | [MarkDown Link](https://tariqkjm7.github.io/Reading-notes/Markdown)
 Git | [Git](https://tariqkjm7.github.io/Reading-notes/git)
+WireFrame|[WireFrame](https://tariqkjm7.github.io/Reading-notes/Wireframe)
 
 
