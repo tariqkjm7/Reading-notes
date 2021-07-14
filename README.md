@@ -19,6 +19,7 @@ MarkDown | [MarkDown Link](https://tariqkjm7.github.io/Reading-notes/Markdown)
 Git | [Git](https://tariqkjm7.github.io/Reading-notes/git)
 WireFrame|[WireFrame](https://tariqkjm7.github.io/Reading-notes/Wireframe)
 HTML | [HTML](https://tariqkjm7.github.io/Reading-notes/HTML)
+JavaScript| [JavaScript](https://tariqkjm7.github.io/Reading-notes/JavaScript)
 
 
 
