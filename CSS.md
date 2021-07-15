@@ -1,6 +1,10 @@
 # CSS
 [CSS:](https://developer.mozilla.org/en-US/docs/Glossary/CSS) **(Cascading Style Sheets)** allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
+
+
 ![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1-yM3EG36gUtqcMmK293IYm7VkqToBmwzA&usqp=CAU)
+
+
 ## ***What is CSS for ?***
 As we have mentioned before, CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 
