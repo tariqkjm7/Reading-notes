@@ -20,7 +20,10 @@ Git | [Git](https://tariqkjm7.github.io/Reading-notes/git)
 WireFrame|[WireFrame](https://tariqkjm7.github.io/Reading-notes/Wireframe)
 HTML | [HTML](https://tariqkjm7.github.io/Reading-notes/HTML)
 JavaScript| [JavaScript](https://tariqkjm7.github.io/Reading-notes/JavaScript)
+<<<<<<< HEAD
 CSS| [CSS](https://tariqkjm7.github.io/Reading-notes/CSS)
+=======
+>>>>>>> f57ff690fd5559c491e3c60f332cacd288ee6726
 
 
 
