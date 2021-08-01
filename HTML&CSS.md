@@ -14,5 +14,12 @@ chapters on CSS will show you how to make your pages look a
 lot more interesting.
  **to read more about HTML you can**  [vist](https://tariqkjm7.github.io/Reading-notes/HTML) 
 
+All websites use HTML and CSS, but content
+management systems, blogging software, and
+e-commerce platforms often add a few more
+technologies into the mix
+
  
  ![html](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSNTnQAx17JcZKQMPAy7RMiLBm5jlVwZlKg&usqp=CAU)
+
+
