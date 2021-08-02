@@ -31,4 +31,4 @@ function | [function](https://tariqkjm7.github.io/Reading-notes/function)
 file names   | links
 ------------ | -------------
 HTML&CSS | [HTML&CSS](https://tariqkjm7.github.io/Reading-notes/HTML&CSS)
-decisionMaking | [decisionMaking](https://tariqkjm7.github.io/Reading-notes/decisionMaking)
+DescionMaking | [DescionMaking](https://tariqkjm7.github.io/Reading-notes/DescionMaking)
