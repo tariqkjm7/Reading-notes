@@ -14,7 +14,7 @@ forms, video audio and flash, and miscellaneous elements. I should warn you that
 at, yet they are the foundation of every web page. The following
 chapters on CSS will show you how to make your pages look a
 lot more interesting.
- **to read more about HTML you can**  [vist](https://tariqkjm7.github.io/Reading-notes/HTML) 
+ **to read more about HTML you can**  ''**[vist]**''(https://tariqkjm7.github.io/Reading-notes/HTML) 
 
 All websites use HTML and CSS, but content
 management systems, blogging software, and
