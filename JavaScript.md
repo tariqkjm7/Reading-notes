@@ -4,6 +4,7 @@
 This section is for the JavaScript language itself, not the parts for web pages or other host environments. For information on the API specification for web pages,
 ![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PwRQttmK18ZBYWADrccj8tjjsnIWtDFvqQ&usqp=CAU)
 ## JavaScript IDs:
+
 **JavaScript IDs:**
 All JavaScript variables must be specified with unique names.
 These unique names are called identifiers.

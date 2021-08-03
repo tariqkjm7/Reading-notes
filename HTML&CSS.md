@@ -8,6 +8,8 @@ We will spend the first chapter looking at how HTML is used to create web pages.
 * images 
 * tables
 
+
+
 forms, video audio and flash, and miscellaneous elements. I should warn you that the examples in the first nine chapters are not exciting to look
 at, yet they are the foundation of every web page. The following
 chapters on CSS will show you how to make your pages look a
