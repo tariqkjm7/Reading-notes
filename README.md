@@ -38,4 +38,5 @@ links |[links](https://tariqkjm7.github.io/Reading-notes/links)
 Images | [Images](https://tariqkjm7.github.io/Reading-notes/Images)
 object | [object](https://tariqkjm7.github.io/Reading-notes/object)
 tables | [tables](https://tariqkjm7.github.io/Reading-notes/tables)
+BuildingBlocks | [BuildingBlocks](https://tariqkjm7.github.io/Reading-notes/BuildingBlocks)
 
