@@ -42,5 +42,4 @@ BuildingBlocks | [BuildingBlocks](https://tariqkjm7.github.io/Reading-notes/Buil
 forms | [forms](https://tariqkjm7.github.io/Reading-notes/forms)
 ErrorHandling | [ErrorHandling](https://tariqkjm7.github.io/Reading-notes/ErrorHandling)
 chart | [chart](https://tariqkjm7.github.io/Reading-notes/chart)
-
-
+localStorage |[localStorage](https://tariqkjm7.github.io/Reading-notes/localStorage)
