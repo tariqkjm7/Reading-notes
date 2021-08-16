@@ -41,5 +41,6 @@ tables | [tables](https://tariqkjm7.github.io/Reading-notes/tables)
 BuildingBlocks | [BuildingBlocks](https://tariqkjm7.github.io/Reading-notes/BuildingBlocks)
 forms | [forms](https://tariqkjm7.github.io/Reading-notes/forms)
 ErrorHandling | [ErrorHandling](https://tariqkjm7.github.io/Reading-notes/ErrorHandling)
+chart | [chart](https://tariqkjm7.github.io/Reading-notes/chart)
 
 
