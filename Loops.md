@@ -12,7 +12,7 @@ You can think of a loop as a computerized version of the game where you tell som
   + The statement executes. To execute multiple statements, use a block statement ({ ... }) to group those statements.
   * If present, the update expression incrementExpression is executed.
   * Control returns to Step 2.
-
+......................
 
  ##while statement
 A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
