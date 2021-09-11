@@ -44,3 +44,14 @@ ErrorHandling | [ErrorHandling](https://tariqkjm7.github.io/Reading-notes/ErrorH
 chart | [chart](https://tariqkjm7.github.io/Reading-notes/chart)
 localStorage |[localStorage](https://tariqkjm7.github.io/Reading-notes/localStorage)
 Transforms | [Transforms](https://tariqkjm7.github.io/Reading-notes/Transforms)
+
+
+
+
+
+## 301d33 reading notes 
+
+
+file names   | links
+----------- | ------------
+Component | [Component](https://tariqkjm7.github.io/Reading-notes/Component)
