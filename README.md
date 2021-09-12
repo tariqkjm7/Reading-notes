@@ -55,3 +55,4 @@ Transforms | [Transforms](https://tariqkjm7.github.io/Reading-notes/Transforms)
 file names   | links
 ----------- | ------------
 Component | [Component](https://tariqkjm7.github.io/Reading-notes/Component)
+ComponentLifecycle | [ComponentLifecycle](https://tariqkjm7.github.io/Reading-notes/ComponentLifecycle)
