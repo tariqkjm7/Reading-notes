@@ -46,9 +46,6 @@ localStorage |[localStorage](https://tariqkjm7.github.io/Reading-notes/localStor
 Transforms | [Transforms](https://tariqkjm7.github.io/Reading-notes/Transforms)
 
 
-
-
-
 ## 301d33 reading notes 
 
 
@@ -56,3 +53,4 @@ file names   | links
 ----------- | ------------
 Component | [Component](https://tariqkjm7.github.io/Reading-notes/Component)
 ComponentLifecycle | [ComponentLifecycle](https://tariqkjm7.github.io/Reading-notes/ComponentLifecycle)
+Keys |[Keys](https://tariqkjm7.github.io/Reading-notes/Keys)

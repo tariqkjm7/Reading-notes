@@ -18,6 +18,7 @@ A component is a software object, intended to interact with other components, en
 * **Independent:** Components are designed to have minimal dependencies on other components.
 
 ## **Advantages**
+
 * **Ease of deployment**
 * **Reduced cost**
 * **Reusable**
