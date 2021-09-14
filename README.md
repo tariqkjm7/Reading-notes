@@ -54,3 +54,4 @@ file names   | links
 Component | [Component](https://tariqkjm7.github.io/Reading-notes/Component)
 ComponentLifecycle | [ComponentLifecycle](https://tariqkjm7.github.io/Reading-notes/ComponentLifecycle)
 Keys |[Keys](https://tariqkjm7.github.io/Reading-notes/Keys)
+React&Forms | [React&Forms](https://tariqkjm7.github.io/Reading-notes/React&Forms)
