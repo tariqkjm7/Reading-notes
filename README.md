@@ -56,3 +56,4 @@ ComponentLifecycle | [ComponentLifecycle](https://tariqkjm7.github.io/Reading-no
 Keys |[Keys](https://tariqkjm7.github.io/Reading-notes/Keys)
 React&Forms | [React&Forms](https://tariqkjm7.github.io/Reading-notes/React&Forms)
 Thinking | [Thinking](https://tariqkjm7.github.io/Reading-notes/Thinking)
+Nodes | [Nodes](https://tariqkjm7.github.io/Reading-notes/Nodes)
