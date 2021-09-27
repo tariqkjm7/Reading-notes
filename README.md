@@ -63,3 +63,4 @@ FunctionalProgramming | [FunctionalProgramming](https://tariqkjm7.github.io/Read
 CallStack | [CallStack](https://tariqkjm7.github.io/Reading-notes/CallStack)
 Authentication |[Authentication](https://tariqkjm7.github.io/Reading-notes/Authentication)
 HTTP | [HTTP](https://tariqkjm7.github.io/Reading-notes/HTTP)
+SQL | [SQL](https://tariqkjm7.github.io/Reading-notes/SQL)
